@@ -11,12 +11,24 @@ availing the services. Once the options are selected and booking is taken, a
 confirmation page is displayed with the amount payable on the day of service.
 This app is designed and created as an original mobile app for the Android OS
 platform using the Java programming language with the Android Studio IDE.
-#-----------------------------------------USER GUIDE--------------------------------------------------#
-MODULES:
+
+# MODULES:
+
 Below are the pages used for user’s reference:
+
 • Main Activity Page
+
+
 • App Page
+
+
 • Theme Page - List View Wedding
+
+
 • Event Description Page
+
+
 • Calculate Page
+
+
 • Feedback Page
